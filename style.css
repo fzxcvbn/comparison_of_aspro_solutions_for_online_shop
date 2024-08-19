@@ -40,9 +40,6 @@
 .conteiner-info-comparison-of-aspro{
     border-bottom: 2px solid #f4f6f9;
 }
-.main-conteiner-comparison-of-aspro {
-    margin-left: 150px;
-}
 
 @media (max-width: 1435px) {
     .header-conteiner-comparison-of-aspro {
@@ -65,3 +62,6 @@
 }
 /*  */
 
+.main-conteiner-comparison-of-aspro {
+    margin-left: 100px;
+}
