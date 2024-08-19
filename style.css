@@ -1,0 +1,67 @@
+.montserrat-comparison-of-aspro {
+    font-family: Montserrat;
+}
+.header-conteiner-comparison-of-aspro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.element-header-comparison-of-aspro {
+    border-radius: 10px;
+    background-color: #f4f6f9;
+    padding: 15px;
+    margin: 10px;
+    flex: 0 0 235.5px;
+    width: 235.5px;
+    height: 105px;
+}
+.element-header-comparison-of-aspro p {
+    font-weight: 550;
+    margin-top: 0;
+}
+.element-header-comparison-of-aspro img {
+    font-weight: 550;
+    margin-bottom: 5px;
+}
+.img-cross-comparison-of-aspro {
+    width: 25px;
+    margin-right: 240px;
+    margin-left: 10px;
+}
+.img-gal-comparison-of-aspro {
+    width: 45px;
+    margin-right: 230px;
+}
+.conteiner-img-comparison-of-aspro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conteiner-info-comparison-of-aspro{
+    border-bottom: 2px solid #f4f6f9;
+}
+.main-conteiner-comparison-of-aspro {
+    margin-left: 150px;
+}
+
+@media (max-width: 1435px) {
+    .header-conteiner-comparison-of-aspro {
+        display: block;
+    }
+    .element-header-comparison-of-aspro {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .img-cross-comparison-of-aspro {
+        margin-right: 45px;
+        margin-left: 10px;
+    }
+    .img-gal-comparison-of-aspro {
+        margin-right: 35px;
+    }
+    .main-conteiner-comparison-of-aspro {
+        margin: 50px;
+    }
+}
+/*  */
+
