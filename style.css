@@ -65,3 +65,28 @@
 .main-conteiner-comparison-of-aspro {
     margin-left: 100px;
 }
+.btn-comparison-of-aspro {
+    border-radius: 100%;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+    transition: background-color 0.2s ease;
+    user-select: none;
+    position: absolute;
+}
+.btn-comparison-of-aspro:hover {
+    background-color: #30d5c7;
+    color: white;
+}
+.btn-left-comparison-of-aspro {
+    top: 60px;
+    left: 70px;
+    display: none;
+}
+.btn-right-comparison-of-aspro {
+    top: 60px;
+    right: 70px;
+}
